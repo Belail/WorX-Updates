@@ -1,0 +1,4 @@
+.netlify/
+*.exe
+!WorX_Setup.exe
+version.json
