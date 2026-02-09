@@ -1,6 +1,6 @@
 {
-    "ReleaseNotes":  "Update 1.2.9.1730 - Released on 2026-02-09",
+    "ReleaseNotes":  "Update 1.2.9.1741 - Released on 2026-02-09",
     "Mandatory":  false,
-    "Version":  "1.2.9.1730",
-    "DownloadUrl":  "https://fastly.jsdelivr.net/gh/Belail/WorX-Updates@main/WorX_Setup.exe"
+    "Version":  "1.2.9.1741",
+    "DownloadUrl":  "https://raw.githubusercontent.com/Belail/WorX-Updates/main/WorX_Setup.exe"
 }
