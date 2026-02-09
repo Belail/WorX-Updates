@@ -1,6 +1,6 @@
 {
-    "ReleaseNotes":  "Update 1.2.9.1752 - Released on 2026-02-09",
+    "ReleaseNotes":  "1、修复了更新失败的BUG",
     "Mandatory":  false,
-    "Version":  "1.2.9.1752",
+    "Version":  "1.2.9.1804",
     "DownloadUrl":  "https://raw.githubusercontent.com/Belail/WorX-Updates/main/WorX_Setup.exe"
 }
