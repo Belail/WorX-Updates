@@ -1,6 +1,6 @@
 {
-    "ReleaseNotes":  "1、修复表格和单元格排序",
+    "ReleaseNotes":  "修复不更新页眉页脚的BUG",
     "Mandatory":  false,
-    "Version":  "1.2.9.2024",
+    "Version":  "1.2.25.1642",
     "DownloadUrl":  "https://raw.githubusercontent.com/Belail/WorX-Updates/main/WorX_Setup.exe"
 }
