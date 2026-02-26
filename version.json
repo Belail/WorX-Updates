@@ -1,6 +1,6 @@
 {
-    "ReleaseNotes":  "修复部分裁剪",
+    "ReleaseNotes":  "增加错误日志输出，出现错误请把\\WorX\\Logs\\error.log文件发给我",
     "Mandatory":  false,
-    "Version":  "1.2.25.1722",
+    "Version":  "1.2.26.1848",
     "DownloadUrl":  "https://raw.githubusercontent.com/Belail/WorX-Updates/main/WorX_Setup.exe"
 }
