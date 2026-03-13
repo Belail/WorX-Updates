@@ -1,6 +1,6 @@
 {
-    "ReleaseNotes":  "修复多文件不显示数据面板的问题",
+    "ReleaseNotes":  "修复工作表定义名称未读取错误，AI审核增加批注功能",
     "Mandatory":  false,
-    "Version":  "1.3.10.1828",
+    "Version":  "1.3.14.211",
     "DownloadUrl":  "https://raw.githubusercontent.com/Belail/WorX-Updates/main/WorX_Setup.exe"
 }
