@@ -1,6 +1,6 @@
 {
-    "ReleaseNotes":  "修复BUG",
+    "ReleaseNotes":  "修改聚光灯实现功能",
     "Mandatory":  false,
-    "Version":  "1.4.17.124",
+    "Version":  "1.5.1.2250",
     "DownloadUrl":  "https://raw.githubusercontent.com/Belail/WorX-Updates/main/WorX_Setup.exe"
 }
