@@ -1,6 +1,6 @@
 {
-    "ReleaseNotes":  "修复BUG",
+    "ReleaseNotes":  "修复无法安装的BUG",
     "Mandatory":  false,
-    "Version":  "1.5.8.1010",
+    "Version":  "1.5.8.1109",
     "DownloadUrl":  "https://raw.githubusercontent.com/Belail/WorX-Updates/main/WorX_Setup.exe"
 }
