@@ -1,6 +1,6 @@
 {
-    "ReleaseNotes":  "修复无法安装的BUG",
+    "ReleaseNotes":  "excel中 增加负数带括号数字格式批量修复",
     "Mandatory":  false,
-    "Version":  "1.5.8.1109",
+    "Version":  "1.5.19.2007",
     "DownloadUrl":  "https://raw.githubusercontent.com/Belail/WorX-Updates/main/WorX_Setup.exe"
 }
