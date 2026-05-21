@@ -1,6 +1,6 @@
 {
-    "ReleaseNotes":  "修复小数调整",
+    "ReleaseNotes":  "修复错误",
     "Mandatory":  false,
-    "Version":  "1.5.21.954",
+    "Version":  "1.5.21.1059",
     "DownloadUrl":  "https://raw.githubusercontent.com/Belail/WorX-Updates/main/WorX_Setup.exe"
 }
