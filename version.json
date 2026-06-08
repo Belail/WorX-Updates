@@ -1,6 +1,6 @@
 {
-    "ReleaseNotes":  "增加超过变量上限后，自动清理变量，避免卡顿",
+    "ReleaseNotes":  "修复各种BUG，提高更新速度",
     "Mandatory":  false,
-    "Version":  "1.5.30.319",
+    "Version":  "1.6.9.216",
     "DownloadUrl":  "https://raw.githubusercontent.com/Belail/WorX-Updates/main/WorX_Setup.exe"
 }
