@@ -1,6 +1,6 @@
 {
-    "ReleaseNotes":  "修复各种BUG，提高更新速度",
+    "ReleaseNotes":  "优化AI审核功能",
     "Mandatory":  false,
-    "Version":  "1.6.9.216",
+    "Version":  "1.6.14.1003",
     "DownloadUrl":  "https://raw.githubusercontent.com/Belail/WorX-Updates/main/WorX_Setup.exe"
 }
